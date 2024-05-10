@@ -1,4 +1,4 @@
-[SMC-Jira#](https://powerschoolgroup.atlassian.net/browse/SMC-Jira#)
+[SMC-#](https://powerschoolgroup.atlassian.net/browse/SMC-Jira#)
 
 ## 📝 Summary
 
@@ -16,7 +16,7 @@ Please enumerate the changes, fixes, or refactors included in this PR:
 
 Please review the following checklist and mark the items as completed:
 
--   [ ] The PR Title adheres to the format: **SMC-Jira# Short-Desc**
+-   [ ] The PR Title adheres to the format: **SMC-# Short-Desc**
 -   [ ] The code has been tested locally and functions as expected
 -   [ ] I have performed a self-review of my code
 -   [ ] Comments have been added to the code where necessary
