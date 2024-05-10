@@ -25,6 +25,6 @@ Please review the following checklist and mark the items as completed:
 -   [ ] I have assigned code reviewers
 
 
-* Any ref(s) to other PR’s in coordination with a larger change
+* Identify any other PR’s in coordination with a larger change
 * Identify areas of focus for reviewer
 * Identify areas of focus for QA testing
