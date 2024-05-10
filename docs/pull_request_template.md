@@ -1,11 +1,30 @@
 [SMC-Jira#](https://powerschoolgroup.atlassian.net/browse/SMC-Jira#)
 
+## 📝 Summary
+
+Please provide a concise description of the purpose of this PR.
+
+## 💡 Changes, Fixes, and Refactors
+
+Please enumerate the changes, fixes, or refactors included in this PR:
+
+1.
+2.
+3.
+
+## ✅ Checklist
+
+Please review the following checklist and mark the items as completed:
+
+-   [ ] The PR Title adheres to the format: **SMC-Jira# Short-Desc**
+-   [ ] The code has been tested locally and functions as expected
+-   [ ] I have performed a self-review of my code
+-   [ ] Comments have been added to the code where necessary
+-   [ ] Tests have been added to prove that fixes and new features function as expected
+-   [ ] All tests are passing
+-   [ ] I have assigned code reviewers
+
+
 * Any ref(s) to other PR’s in coordination with a larger change
-
-* Overview of what component(s)/config or API's changed, include why and how it changed
-
-* Overview of new component(s)/config or API's introduced and why
-
-* Specific areas of focus for reviewer
-* Specific areas of focus for testing
-* Specific developers that can provide further insight/explanation
+* Identify areas of focus for reviewer
+* Identify areas of focus for QA testing
