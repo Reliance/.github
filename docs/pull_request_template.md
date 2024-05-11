@@ -1,4 +1,4 @@
-[SMC-#](https://powerschoolgroup.atlassian.net/browse/SMC-Jira#)
+[JIRA-ID](https://powerschoolgroup.atlassian.net/browse/JIRA-ID)
 
 ## 📝 Summary
 
